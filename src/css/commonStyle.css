@@ -1,0 +1,15 @@
+li {
+  font-size: 1.22rem;
+  white-space: pre-wrap;
+  margin-left: 15rem;
+  list-style-type: none;
+}
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+h2 {
+  font-size: 2rem;
+  margin-top: 5rem;
+}

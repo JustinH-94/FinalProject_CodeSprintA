@@ -1,0 +1,50 @@
+.mealType__Button {
+  background-color: rgb(246, 251, 255);
+  padding: 1rem;
+  width: 15rem;
+  border-radius: 3rem;
+  margin-left: 1.5rem;
+  font-size: 1.5rem;
+  text-align: left;
+  position: relative;
+  outline: none;
+}
+
+.mealType {
+  margin-left: 2rem;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.eggImg {
+  width: 30%;
+  border-radius: 25%;
+  padding: 0rem 0rem 0rem 7rem;
+  opacity: 0.5;
+}
+
+.burgerImg {
+  width: 25%;
+  padding: 0rem 0rem 0rem 7rem;
+  opacity: 0.5;
+}
+
+.steakImg {
+  width: 25%;
+  padding: 0rem 0rem 0rem 7rem;
+  opacity: 0.5;
+}
+
+.icecreamImg {
+  width: 30%;
+  height: 55px;
+  padding: 0rem 0rem 0rem 12rem;
+  opacity: 0.5;
+}
+
+.chipsNdip {
+  width: 100px;
+  height: 55px;
+  padding: 0rem 0rem 0rem 10rem;
+  opacity: 0.5;
+}

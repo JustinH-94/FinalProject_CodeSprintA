@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+.background {
+  background-image: url(../image/CookingBackground.jpg);
+  height: 100%;
+}
+
+.fore-background {
+  background-color: azure;
+  margin: 0rem 15rem 0rem 15rem;
+}
